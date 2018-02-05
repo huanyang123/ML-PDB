@@ -1,2 +1,2 @@
 # ML-PDB
-This folder contains Protein/RNA/DNA data quality prediction using ML algorithms
+This folder contains python modules to predict Protein/RNA/DNA data quality using ML algorithms
